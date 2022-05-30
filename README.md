@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @pm2monit
 <p>
   <img src="https://halosehat.com/wp-content/uploads/2019/09/Manfaat-Main-Rubik-1280x720.jpg"  />
-  <img src="https://raw.githubusercontent.com/staticshreyas/staticshreyas/master/coder.gif" />
+  <img src="https://raw.githubusercontent.com/staticshreyas/staticshreyas/master/coder.gif" width="100%" />
 </p>
 
 <!---
